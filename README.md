@@ -17,7 +17,7 @@ This is a Laravel-based task management application created as part of a technic
 3. **Set up your database in .env file**
 4. **Run database migrations**
 5. **(Optional) Seed data if available**
-6. **Install frontend dependencies and compile assets//
+6. **Install frontend dependencies and compile assets**
 7. **Run the development server with php artisan serve**
 
    
