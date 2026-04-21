@@ -57,7 +57,7 @@
                
                 <button type="submit"
                     class="w-full bg-cyan-500 text-white cursor-pointer py-2 rounded-xl font-bold hover:bg-cyan-600 transition-colors duration-300">
-                    Log In
+                    LOG IN
                 </button>
             </form>
         </div>
