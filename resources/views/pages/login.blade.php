@@ -33,7 +33,7 @@
     @endif
 
         <div class="bg-white p-8 rounded-2xl shadow-lg w-full max-w-md">
-            <h2 class="text-2xl font-bold text-center mb-6 text-cyan-950">Log In</h2>
+            <h2 class="text-2xl font-bold text-center mb-6 text-cyan-950">LOG IN</h2>
 
             <form action="{{ url('/login') }}" method="POST">
                 @csrf
